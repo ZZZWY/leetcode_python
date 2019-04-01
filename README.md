@@ -1,4 +1,4 @@
-[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+
 # leetcode
 
 -  1. [Two Sum](https://leetcode.com/problems/two-sum/description/): [Solution](/src/leetcode/1_two_sum.py)
